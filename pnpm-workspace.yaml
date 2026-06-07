@@ -1,0 +1,10 @@
+﻿packages:
+  - "apps/*"
+  - "packages/*"
+  - "packages/plugin-sdk"
+  - "packages/event-bus"
+  - "packages/contracts"
+  - "packages/ui"
+  - "packages/shared-types"
+  - "packages/shared-utils"
+  - "plugins/*"
